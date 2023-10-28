@@ -1,0 +1,6 @@
+[submodule "assets"]
+	path = assets
+	url = git@github.com:RalfBarkow/assets.git
+[submodule "pages"]
+	path = pages
+	url = git@github.com:RalfBarkow/pages.git
